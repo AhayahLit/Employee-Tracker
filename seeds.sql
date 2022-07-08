@@ -1,6 +1,6 @@
 USE Employee_db 
 
-INSERT INTO department (id, name)
+INSERT INTO department (name)
 VALUES
-(1211, "John"),
-(0821, "Jane"),
+("John"),
+("Jane"),
